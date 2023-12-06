@@ -7,7 +7,7 @@
 * linkedin -  RobertLaBreche 
 * GitHub: RELaBreche874
 
-## Summary
+### Summary
 
 Adaptable, driven, and resourceful Data Engineer, with a Bachelor of Science in Computing Security
 and Technology (Summa Cum Laude), an Associate of Applied Science in General Studies, and
