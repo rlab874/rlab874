@@ -4,8 +4,8 @@
 * location - Wilmington, DE 
 * phone - (610) 308-1639
 * email -  rlabreche419@gmail.com
-* linkedin -  RobertLaBreche 
-* GitHub: RELaBreche874
+* linkedin - www.linkedin.com/in/robertlabreche
+* GitHub: www.github.com/rlab874
 
 ### Summary
 
