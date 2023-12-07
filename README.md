@@ -1,10 +1,3 @@
-{% assign linkedin = "https://www.linkedin.com/in/robertlabreche" %}
-{% assign email    = "rlabreche419@gmail.com" %}
-{% assign username = "rlab874" %}
-{% capture repository %}
-    https://{{ username }}.github.io/resume
-{% endcapture %}
-
 # Robert E LaBreche
 
 <table>
@@ -20,16 +13,16 @@
 
 <link rel="stylesheet" type="text/css" media="all" href="./assets/css/style.css" />
 
-* Click [here](https://{{ username }}.github.io/{{ username }}) to view full portfolio_
+* Click [here](https://rlab874.github.io/rlab874) to view full portfolio_
 
 
 ### Education
-* ZipCodeWilmington School of Coding - _March 2023 - May 2023_
-* _[Certificate of Completion](./bachelors-degree.pdf)_
+<!-- * ZipCodeWilmington School of Coding - _March 2023 - May 2023_
+* _[Certificate of Completion](./bachelors-degree.pdf)_ -->
 
 
 
 ### Contact Information
-* **Email**: [`{{ email }}`](mailto:{{ email }})
-* **Website:** [`{{ repository }}`]({{ repository }})
-* **LinkedIn:** [`{{ linkedin }}`]({{ linkedin }})
+* **Email**: [`rlabreche419@gmail.com`](mailto:rlabreche419@gmail.com)
+<!-- * **Website:** [`{{ repository }}`]({{ repository }}) -->
+* **LinkedIn:** [`https://www.linkedin.com/in/robertlabreche/`](https://www.linkedin.com/in/robertlabreche/)
