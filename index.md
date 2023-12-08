@@ -1,10 +1,9 @@
 # ROBERT E. LaBRECHE
 ### DATA ENGINEER / DATA ANALYST
 
-* location - Wilmington, DE 
-* phone - (610) 308-1639
-* email -  rlabreche419@gmail.com
-* linkedin - www.linkedin.com/in/robertlabreche
+* location: Wilmington, DE 
+* email: rlabreche419@gmail.com
+* linkedin: www.linkedin.com/in/robertlabreche
 * GitHub: www.github.com/rlab874
 
 ### Summary
