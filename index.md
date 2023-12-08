@@ -1,10 +1,10 @@
 # ROBERT E. LaBRECHE
 ### DATA ENGINEER / DATA ANALYST
 
-* location: Wilmington, DE 
+* location: wilmington, de 
 * email: rlabreche419@gmail.com
 * linkedin: www.linkedin.com/in/robertlabreche
-* GitHub: www.github.com/rlab874
+* gitHub: www.github.com/rlab874
 
 ### Summary
 
