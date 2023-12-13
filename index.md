@@ -2,9 +2,9 @@
 ### DATA ENGINEER / SOFTWARE DEVELOPER
 
 * location: wilmington, de 
-* email: rlabreche419@gmail.com
-* linkedin: www.linkedin.com/in/robertlabreche
-* github: www.github.com/rlab874
+* email: [rlabreche419@gmail.com] (rlabreche419@gmail.com)
+* linkedin: [www.linkedin.com/in/robertlabreche] (www.linkedin.com/in/robertlabreche)
+* github: [www.github.com/rlab874] (www.github.com/rlab874)
 
 ### Summary
 
