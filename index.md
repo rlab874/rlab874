@@ -86,11 +86,3 @@ cargo loads; consistently finishing 2 to 3 hours ahead of schedule and volunteer
 remaining shift hours to assist other drivers
 * Handled and delivered $7000+/weekly in office and restaurant supplies; maintained and
 nurtured over 90+ individual client accounts
-Best Buy | Springfield, PA Aug 2014 – May 2015
-
-Loss Prevention Associate
-* Welcomed customers upon entry while maintaining a visible presence, deterring theft, and
-assisting in the apprehension of shoplifters
-
-* Ensured compliance with safety standards and fire codes by conducting regular walk-
-throughs of sales floor, back office, and warehouse areas
