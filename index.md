@@ -97,7 +97,7 @@ nurtured over 90+ individual client accounts
 
 ### EXTRACURRICULAR AND CERTIFICATIONS
 
-**JPMorgan Chase & Co. Software Engineering Lite virtual experience program on Forage - December 2023**
+**JPMorgan Chase & Co. Software Engineering Lite Virtual Experience Program on Forage - December 2023**
 
  * Completed a simulation focused on the process of completing an engineering
    ticket for a system in the credit-card rewards department of JPMorgan Chase &
