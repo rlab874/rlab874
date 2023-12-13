@@ -94,3 +94,13 @@ cargo loads; consistently finishing 2 to 3 hours ahead of schedule and volunteer
 remaining shift hours to assist other drivers
 * Handled and delivered $7000+/weekly in office and restaurant supplies; maintained and
 nurtured over 90+ individual client accounts
+
+### EXTRACURRICULAR AND CERTIFICATIONS
+
+**JPMorgan Chase & Co. Software Engineering Lite virtual experience program on Forage - December 2023**
+
+ * Completed a simulation focused on the process of completing an engineering
+   ticket for a system in the credit-card rewards department of JPMorgan Chase &
+   Co.
+ * Created a new class to get an existing system up and running 
+ * Wrote a test suite for the class added
