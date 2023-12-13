@@ -29,7 +29,7 @@ developing solutions to complex problems using programming experience, tools and
 
 ### EDUCATION
 
-Curricleon | Wilmington, DE Dec 2023 - Present
+Curricleon \| Wilmington, DE Dec 2023 - Present
 
 Zip Code Wilmington | Wilmington, DE Feb 2023 - May 2023
 Data Engineer / Data Analyst
