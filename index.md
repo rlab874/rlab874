@@ -32,15 +32,15 @@ developing solutions to complex problems using programming experience, tools and
 Curricleon \| Wilmington, DE Dec 2023 - Present<br>
 Software Development Mentorship
 
-Zip Code Wilmington | Wilmington, DE Feb 2023 - May 2023
+Zip Code Wilmington | Wilmington, DE Feb 2023 - May 2023<br>
 Data Engineer / Data Analyst
 
-Drexel University | Philadelphia, PA Sep 2016 - Jun 2020
-B.S., Computer Security and Technology
-Summa Cum Laude (GPA: 3.9 / 4.0)
+Drexel University | Philadelphia, PA Sep 2016 - Jun 2020<br>
+B.S., Computer Security and Technology<br>
+Summa Cum Laude (GPA: 3.9 / 4.0)<br>
 Honor Society Memberships: Upsilon Pi Epsilon
 
-Delaware County Community College | Media, PA Dec 2013
+Delaware County Community College | Media, PA Dec 2013<br>
 A.A.S., General Studies
 
 
