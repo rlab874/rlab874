@@ -70,7 +70,7 @@ personally responsible for writing several functions and tests using Python [Ham
 
 ### EXPERIENCE
 
-**LaBreche Household** | Wilmington, DE Jun 2016 – Present
+**LaBreche Household** | Wilmington, DE Jun 2016 - Present
 Stay-At-Home Father / Homeschool Teacher
 *  Completed Bachelor of Science in Computing Security and Technology, graduating summa
 cum laude, and inducted into the Upsilon Pi Epsilon Honor Society while concurrently
@@ -79,7 +79,7 @@ providing childcare and early childhood education for a toddler
 * Successfully planned and facilitated a single-day move to a new state with limited notice and
 budget
 
-**Zip Code Wilmington** | Wilmington, DE Feb 2023 – May 2023
+**Zip Code Wilmington** | Wilmington, DE Feb 2023 - May 2023
 Data Engineer / Data Analyst in Training
 
 Admitted into Zip Code Wilmington’s highly competitive, immersive, software developer training
@@ -87,7 +87,7 @@ program accepting less than 10% of applicants; completed over 1000 hours of data
 exercises, research, and technical projects; gained experience with Python, SQL, and various data
 tools and frameworks while working in teams using Agile methodologies.
 
-**W.B. Mason** | Bellmawr, NJ Nov 2015 – Jun 2016
+**W.B. Mason** | Bellmawr, NJ Nov 2015 - Jun 2016
 Delivery Driver
 * Planned daily routes over 13 sq. miles (approx.) with an average of 45 stops/day and varying
 cargo loads; consistently finishing 2 to 3 hours ahead of schedule and volunteering
