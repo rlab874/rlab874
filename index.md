@@ -1,4 +1,3 @@
-# ROBERT E. LaBRECHE
 ### DATA ENGINEER / SOFTWARE DEVELOPER
 
 * location: wilmington, de 
@@ -6,7 +5,7 @@
 * linkedin: [www.linkedin.com/in/robertlabreche](https://www.linkedin.com/in/robertlabreche)
 * github: [www.github.com/rlab874](https://www.github.com/rlab874)
 
-### Summary
+### SUMMARY
 
 Adaptable, driven, and resourceful Data Engineer/Software Developer, with a Bachelor of Science in Computing Security
 and Technology (Summa Cum Laude), an Associate of Applied Science in General Studies, and
@@ -40,16 +39,16 @@ Honor Society Memberships: Upsilon Pi Epsilon
 Delaware County Community College | Media, PA Dec 2013
 A.A.S., General Studies
 
-### Personal Projects
+### PERSONAL PROJECTS
 
 * MovieMail: Personally developing an app to generate emails with recommendations based
 on movies the user has watched using content filtering machine learning; built using Python,
 Pandas, Jupyter Notebook, Sklern, Nltk, and GitHub [ MovieMail Link ]
 
-* CRUD Application
+* CRUD Application Controller
 
 
-### Group Projects
+### GROUP PROJECTS
 
 * Hammurabi: Collaborated with 1 team member to develop a version of the Hammurabi text
 adventure game which sees the player managing a kingdom through resource management;
@@ -66,7 +65,6 @@ Admitted into Zip Code Wilmington’s highly competitive, immersive, software de
 program accepting less than 10% of applicants; completed over 1000 hours of data engineering lab
 exercises, research, and technical projects; gained experience with Python, SQL, and various data
 tools and frameworks while working in teams using Agile methodologies.
-
 
 LaBreche Household | Wilmington, DE Jun 2016 – Present
 Stay-At-Home Father / Homeschool Teacher
