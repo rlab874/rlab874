@@ -12,6 +12,7 @@ and Technology (Summa Cum Laude), an Associate of Applied Science in General Stu
 professional experience in customer service; ready to work with innovative, collaborative teams
 developing solutions to complex problems using programming experience, tools and frameworks.
 
+
 ### TECHNICAL SKILLS
 
 * Java
@@ -39,21 +40,29 @@ Honor Society Memberships: Upsilon Pi Epsilon
 Delaware County Community College | Media, PA Dec 2013
 A.A.S., General Studies
 
+
 ### PERSONAL PROJECTS
 
-* MovieMail: Personally developing an app to generate emails with recommendations based
-on movies the user has watched using content filtering machine learning; built using Python,
-Pandas, Jupyter Notebook, Sklern, Nltk, and GitHub [ MovieMail Link ]
+* MovieMail: Personally developing an app to generate emails with movie recommendations based
+on the user's viewing history has using content-filtering machine learning; built using Python,
+Pandas, Jupyter Notebook, Sklern, and Nltk. [MovieMail Link](https://github.com/rlab874/MovieMail).
 
-* CRUD Application Controller
+* CRUD Application Controller: Designed and implemented a comprehensive CRUD application leveraging 
+Java, jQuery, Spring Boot, and H2 database. The application facilitated seamless data management operations 
+with a user-friendly interface. Utilized Spring Boot to create a robust backend, ensuring efficient 
+data processing and management [CRUD App Controller Link](https://github.com/rlab874/MovieMail).
 
 
 ### GROUP PROJECTS
 
+* EF None: Admitted into Zip Code Wilmington’s highly competitive, immersive, software developer training
+program accepting less than 10% of applicants; completed over 1000 hours of data engineering lab
+exercises, research, and technical projects; gained experience with Python, SQL, and various data
+tools and frameworks while working in teams using Agile methodologies [EF None Link](https://github.com/Zip-Final/EF-None).
+
 * Hammurabi: Collaborated with 1 team member to develop a version of the Hammurabi text
 adventure game which sees the player managing a kingdom through resource management;
-personally responsible for writing several functions and tests using Python [ Hammurabi
-Link ]
+personally responsible for writing several functions and tests using Python [Hammurabi Link](https://github.com/rlab874/Hamurabi).
 
 
 ### EXPERIENCE
