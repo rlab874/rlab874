@@ -2,7 +2,7 @@
 
 * location: Wilmington, DE 
 * email: [rlabreche419@gmail.com](rlabreche419@gmail.com)
-* linkedin: [www.linkedin.com/in/robertlabreche](https://www.linkedin.com/in/robertlabreche)
+* linkedin: [www.linkedin.com/in/robertelabreche](https://www.linkedin.com/in/robertelabreche)
 * github: [www.github.com/rlab874](https://www.github.com/rlab874)
 
 ### SUMMARY
