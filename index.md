@@ -29,6 +29,9 @@ developing solutions to complex problems using programming experience, tools and
 
 ### EDUCATION
 
+Zip Code Wilmington | Wilmington, DE Feb 2023 – May 2023
+Data Engineer / Data Analyst
+
 Drexel University | Philadelphia, PA Sep 2016 – Jun 2020
 B.S., Computer Security and Technology
 Summa Cum Laude (GPA: 3.9 / 4.0)
@@ -64,13 +67,8 @@ program accepting less than 10% of applicants; completed over 1000 hours of data
 exercises, research, and technical projects; gained experience with Python, SQL, and various data
 tools and frameworks while working in teams using Agile methodologies.
 
-#### Technical Projects:
 
-* InstaPyBot: Personally developed an app for automated interaction with Instagram
-allowing the user to like and comment on images and follow other users; built to better
-understand how automation works utilizing Python and InstaPy [ InstaPy Link]
-
-LaBreche Household | Wilmington, DE Jun 2016 – Feb 2023
+LaBreche Household | Wilmington, DE Jun 2016 – Present
 Stay-At-Home Father / Homeschool Teacher
 *  Completed Bachelor of Science in Computing Security and Technology, graduating summa
 cum laude, and inducted into the Upsilon Pi Epsilon Honor Society while concurrently
