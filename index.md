@@ -29,10 +29,12 @@ developing solutions to complex problems using programming experience, tools and
 
 ### EDUCATION
 
-Zip Code Wilmington | Wilmington, DE Feb 2023 – May 2023
+Curricleon | Wilmington, DE Dec 2023 - Present
+
+Zip Code Wilmington | Wilmington, DE Feb 2023 - May 2023
 Data Engineer / Data Analyst
 
-Drexel University | Philadelphia, PA Sep 2016 – Jun 2020
+Drexel University | Philadelphia, PA Sep 2016 - Jun 2020
 B.S., Computer Security and Technology
 Summa Cum Laude (GPA: 3.9 / 4.0)
 Honor Society Memberships: Upsilon Pi Epsilon
