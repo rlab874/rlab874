@@ -1,5 +1,5 @@
 # ROBERT E. LaBRECHE
-### DATA ENGINEER / DATA ANALYST
+### DATA ENGINEER / SOFTWARE DEVELOPER
 
 * location: wilmington, de 
 * email: rlabreche419@gmail.com
@@ -8,7 +8,7 @@
 
 ### Summary
 
-Adaptable, driven, and resourceful Software Developer, with a Bachelor of Science in Computing Security
+Adaptable, driven, and resourceful Data Engineer/Software Developer, with a Bachelor of Science in Computing Security
 and Technology (Summa Cum Laude), an Associate of Applied Science in General Studies, and
 professional experience in customer service; ready to work with innovative, collaborative teams
 developing solutions to complex problems using programming experience, tools and frameworks.
@@ -52,7 +52,6 @@ Pandas, Jupyter Notebook, Sklern, Nltk, and GitHub [ MovieMail Link ]
 adventure game which sees the player managing a kingdom through resource management;
 personally responsible for writing several functions and tests using Python [ Hammurabi
 Link ]
-
 
 
 ### EXPERIENCE
