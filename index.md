@@ -24,11 +24,9 @@ developing solutions to complex problems using programming experience, tools and
 * JSON
 * Jupyter Notebook
 <!--
-
-* GitHub
-* Spring Boot
-* Test Driven Development (TDD)
-
+ GitHub
+ Spring Boot
+ Test Driven Development (TDD)
 -->
 
 ### EDUCATION
