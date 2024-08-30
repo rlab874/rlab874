@@ -33,10 +33,10 @@ developing solutions to complex problems using programming experience, tools and
 <!--
 Curricleon \| Wilmington, DE Dec 2023 - Present<br>
 Software Development Mentorship
--->
 
 Zip Code Wilmington | Wilmington, DE Feb 2023 - May 2023<br>
 Data Engineer
+-->
 
 Drexel University | Philadelphia, PA Sep 2016 - Jun 2020<br>
 B.S., Computer Security and Technology<br>
@@ -47,7 +47,7 @@ Delaware County Community College | Media, PA Dec 2013<br>
 A.A.S., General Studies
 
 
-### PERSONAL PROJECTS
+### PROJECTS
 
 * **MovieMail**: Personally developing an app to generate emails with movie recommendations based
 on the user's viewing history has using content-filtering machine learning; built using Python,
@@ -59,8 +59,6 @@ Java, jQuery, Spring Boot, and H2 database. The application facilitated seamless
 with a user-friendly interface. Utilized Spring Boot to create a robust backend, ensuring efficient 
 data processing and management [CRUD App Controller Link](https://github.com/rlab874/MovieMail).
 -->
-
-### GROUP PROJECTS
 
 * **EF None**: Collaboratively working on a team of three to develop an application that takes user input and 
 returns the probability of a tornado hitting the area based on historical data. This will be built using Python, 
@@ -94,7 +92,7 @@ providing childcare and early childhood education for a toddler
 budget
 
 **Zip Code Wilmington** | Wilmington, DE Feb 2023 - May 2023
-Data Engineer / Data Analyst in Training
+Data Engineer
 
 Admitted into Zip Code Wilmington’s highly competitive, immersive, software developer training
 program accepting less than 10% of applicants; completed over 1000 hours of data engineering lab
