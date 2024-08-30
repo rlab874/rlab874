@@ -23,10 +23,10 @@ developing solutions to complex problems using programming experience, tools and
 * Pandas
 * JSON
 * Jupyter Notebook
+* Test Driven Development (TDD)
+* GitHub
 <!--
- GitHub
  Spring Boot
- Test Driven Development (TDD)
 -->
 
 ### EDUCATION
