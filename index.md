@@ -16,8 +16,6 @@ developing solutions to complex problems using programming experience, tools and
 ### TECHNICAL SKILLS
 
 * Java
-* Spring Boot
-* Test Driven Development (TDD)
 * SQL
 * Agile Methodologies
 * Python
@@ -25,7 +23,11 @@ developing solutions to complex problems using programming experience, tools and
 * Pandas
 * JSON
 * Jupyter Notebook
+<!--
 * GitHub
+* Spring Boot
+* Test Driven Development (TDD)
+-->
 
 ### EDUCATION
 <!--
