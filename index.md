@@ -28,12 +28,13 @@ developing solutions to complex problems using programming experience, tools and
 * GitHub
 
 ### EDUCATION
-
+<!--
 Curricleon \| Wilmington, DE Dec 2023 - Present<br>
 Software Development Mentorship
+-->
 
 Zip Code Wilmington | Wilmington, DE Feb 2023 - May 2023<br>
-Data Engineer / Data Analyst
+Data Engineer
 
 Drexel University | Philadelphia, PA Sep 2016 - Jun 2020<br>
 B.S., Computer Security and Technology<br>
@@ -50,11 +51,12 @@ A.A.S., General Studies
 on the user's viewing history has using content-filtering machine learning; built using Python,
 Pandas, Jupyter Notebook, Sklern, and Nltk. [MovieMail Link](https://github.com/rlab874/MovieMail).
 
+<!--
 * **CRUD Application Controller**: Designed and implemented a comprehensive CRUD application leveraging 
 Java, jQuery, Spring Boot, and H2 database. The application facilitated seamless data management operations 
 with a user-friendly interface. Utilized Spring Boot to create a robust backend, ensuring efficient 
 data processing and management [CRUD App Controller Link](https://github.com/rlab874/MovieMail).
-
+-->
 
 ### GROUP PROJECTS
 
@@ -63,14 +65,24 @@ returns the probability of a tornado hitting the area based on historical data. 
 Matplotlib, Pandas, Jupyter Notebooks, GeoPy, and Flask. Personally contributed to the development of the program 
 logic, as well the cleaning and visualization of the data [EF None Link](https://github.com/Zip-Final/EF-None).
 
+<!--
 * **Hammurabi**: Collaborated with 1 team member to develop a version of the Hammurabi text
 adventure game which sees the player managing a kingdom through resource management;
-personally responsible for writing several functions and tests using Python [Hammurabi Link](https://github.com/rlab874/Hamurabi).
-
+personally responsible for writing several functions and tests using Python Hammurabi Link.
+-->
 
 ### EXPERIENCE
 
-**LaBreche Household** | Wilmington, DE Jun 2016 - Present
+**JPMorgan Chase** | Wilmington, DE April 2024 - Present
+Software Engineer I
+* Worked in a collaborative environment developing and implementing code to improve functionality
+  and reliability of pre-existing applications with a focus on learning and hands-on experience
+* Performed analyses on various application workflows to better understand the impacts they may
+  have for a large scale upgrade to the application in the near future
+* Received ongoing mentorship and direction from senior engineers on various technologies
+  and coding methodologies
+
+**LaBreche Household** | Wilmington, DE Jun 2016 - April 2024
 Stay-At-Home Father / Homeschool Teacher
 *  Completed Bachelor of Science in Computing Security and Technology, graduating summa
 cum laude, and inducted into the Upsilon Pi Epsilon Honor Society while concurrently
@@ -95,6 +107,7 @@ remaining shift hours to assist other drivers
 * Handled and delivered $7000+/weekly in office and restaurant supplies; maintained and
 nurtured over 90+ individual client accounts
 
+<!--
 ### EXTRACURRICULAR AND CERTIFICATIONS
 
 **JPMorgan Chase & Co.**<br> 
@@ -105,3 +118,4 @@ nurtured over 90+ individual client accounts
    Co.
  * Created a new class to get an existing system up and running 
  * Wrote a test suite for the class added
+ -->
